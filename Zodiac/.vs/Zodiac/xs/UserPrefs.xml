@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{6069F498-B824-4CB8-AE09-6278F1775373}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/InvalidEmail.cshtml">
+    <Files>
+      <File FileName="Models/Dates.cs" Line="29" Column="39" />
+      <File FileName="Exceptions/InvalidEmailException.cs" Line="11" Column="62" />
+      <File FileName="Exceptions/NotBirthException.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="44" Column="10" />
+      <File FileName="Models/Person.cs" Line="36" Column="27" />
+      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="7" Column="36" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="31" Column="46" />
+      <File FileName="wwwroot/js/site.js" Line="17" Column="4" />
+      <File FileName="Views/Home/Result.cshtml" Line="2" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="15" Column="87" />
+      <File FileName="Exceptions/OldBirthException.cs" Line="1" Column="1" />
+      <File FileName="Views/Exceptions/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/OldBirth.cshtml" Line="9" Column="21" />
+      <File FileName="Views/Home/InvalidEmail.cshtml" Line="9" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zodiac" expanded="True">
+            <Node name="Zodiac" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="InvalidEmail.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Zodiac PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
